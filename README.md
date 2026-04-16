@@ -1,38 +1,44 @@
-# Hi, I'm Jan Havlín
+# Welcome to my GitHub
 
-Rust expert and performance-focused backend developer, specializing in distributed   
-systems, microservices, and data-intensive applications. Commited to designing    
-scalable, low-latency solutions and exploring innovative ways to integrate AI into   
-real-world problems. I also keep an eye on the evolving Web3 space to stay connected   
-with emerging technologies. Strong foundation in TDD, system design, and   
-production-ready architectures. 
+Here I share architectural explorations, system prototypes, and technical experiments.
 
-**Languages:**  
-- **Rust**  
-- **Go** 
-- **Elixir** 
+For a broader look at how I think about systems and engineering, and the ideas behind it,
+visit my website.
 
-**Expertise:**
-- Backend systems architecture; designing scalable, resilient, and high-performance    
-  systems
-- Test-as-value approach; advocating testing as a core principle for reliable    
-  and maintainable production systems
-- Strategic problem solving; approaching complex technical challenges with    
-  unconventional, effective solutions
-- Maintainable & robust code; building systems that remain stable and extensible     
-  over the long term
+---
 
-**Aspirations:**  
-- Collaborate with international teams on ambitious, pioneering projects  
-- Gradually expand into staff/lead seniority and solution architecture roles  
+# About This GitHub Account
 
-**Connect with me:** [LinkedIn](http://linkedin.com/in/jan-h-35b138395)
+This is not my first GitHub account.
 
-I value communication that is clear, honest, and direct, dry humor, and thoughtful,   
-professional collaboration across the team.
+For several professional years I worked under a separate GitHub account focused on **Rust** systems developed within a single organization. That work is not directly linked from this profile, but selected examples can be shared upon request.
 
-On a philosophical note, I see programming as a creative craft — not unlike art, another   
-vast domain reflecting humanity at its finest — both grounded in structure, yet driven   
-by abstraction. It feels much like two kinds of energies that may complement each other   
-surprisingly well — one precise and structured, the other expansive and imaginative —    
-working together to shape what does not yet exist.
+This account contains work I can share publicly outside proprietary systems.
+
+Repositories here typically represent independent system designs created to explore technologies in depth. They are not tutorial-style examples — the goal is to evaluate technologies in realistic architectural contexts.
+
+I also use these projects to refine my AI-assisted development workflow (**Cursor**).
+
+---
+
+### Selected system explorations
+
+- **[featureflag-api](./featureflag-api)**  
+  Go · GraphQL · PostgreSQL *(completed)*
+
+- **personal website**  
+  TypeScript · Astro · Playwright *(finalizing)*
+
+- **chain-to-cloud-ingestion**  
+  AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana *(planned)*
+
+#### Status legend
+
+*(planned)* — design stage
+*(in progress)* — active development
+*(ongoing)* — iterative development
+*(completed)* — finished and not actively maintained
+
+---
+
+I tend to have more ideas than time, so new explorations appear gradually. In the future I also plan to start a private commercial project, potentially involving deeper work with Elixir.
