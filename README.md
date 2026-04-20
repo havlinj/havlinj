@@ -39,10 +39,7 @@ I also use these projects to refine my AI-assisted development workflow (**Curso
 
 ### Status Legend
 
-*(planned)* — design stage
-*(in progress)* — active development
-*(ongoing)* — iterative development
-*(completed)* — finished and not actively maintained
+*(planned)* — design stage<br>*(in progress)* — active development<br>*(ongoing)* — iterative development<br>*(completed)* — finished and not actively maintained
 
 # Looking Ahead
 
