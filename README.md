@@ -19,14 +19,21 @@ I also use these projects to refine my AI-assisted development workflow (**Curso
 
 # Selected System Explorations
 
-- **[featureflag-api](./featureflag-api)**  
-  Go · GraphQL · PostgreSQL *(completed)*
-
-- **personal website**  
-  TypeScript · Astro · Playwright *(finalizing)*
-
-- **chain-to-cloud-ingestion**  
-  AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana *(planned)*
+<div>
+  <img src="assets/arrow.svg" width="12" style="vertical-align: -2px; margin-right: 6px;">
+  <strong><a href="./featureflag-api">featureflag-api</a></strong><br>
+  <span style="margin-left: 18px;">Go · GraphQL · PostgreSQL *(completed)*</span>
+</div>
+<div>
+  <img src="assets/arrow.svg" width="12" style="vertical-align: -2px; margin-right: 6px;">
+  <strong>personal website</strong><br>
+  <span style="margin-left: 18px;">TypeScript · Astro · Playwright *(ongoing)*</span>
+</div>
+<div>
+  <img src="assets/arrow.svg" width="12" style="vertical-align: -2px; margin-right: 6px;">
+  <strong>chain-to-cloud-ingestion</strong><br>
+  <span style="margin-left: 18px;">AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana *(planned)*</span>
+</div>
 
 ### Status Legend
 
