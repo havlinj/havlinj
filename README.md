@@ -20,17 +20,17 @@ I also use these projects to refine my AI-assisted development workflow (**Curso
 # Selected System Explorations
 
 <div>
-  <img src="assets/arrow.png" width="17" height="11" alt=""><strong><a href="./featureflag-api">featureflag-api</a></strong><br>
+  <span aria-hidden="true" style="display:inline-block;width:17px;height:11px;line-height:11px;color:#4A90FC;font-size:10px;vertical-align:text-bottom;">■</span><strong><a href="./featureflag-api">featureflag-api</a></strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go · GraphQL · PostgreSQL <em>(completed)</em>
 </div>
 <br>
 <div>
-  <img src="assets/arrow.png" width="17" height="11" alt=""><strong>personal website</strong><br>
+  <span aria-hidden="true" style="display:inline-block;width:17px;height:11px;line-height:11px;color:#4A90FC;font-size:10px;vertical-align:text-bottom;">■</span><strong>personal website</strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TypeScript · Astro · Playwright <em>(ongoing)</em>
 </div>
 <br>
 <div>
-  <img src="assets/arrow.png" width="17" height="11" alt=""><strong>chain-to-cloud-ingestion</strong><br>
+  <span aria-hidden="true" style="display:inline-block;width:17px;height:11px;line-height:11px;color:#4A90FC;font-size:10px;vertical-align:text-bottom;">■</span><strong>chain-to-cloud-ingestion</strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana <em>(planned)</em>
 </div>
 
