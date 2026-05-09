@@ -19,16 +19,16 @@ I also use these projects to refine my AI-assisted development workflow (**Curso
 
 # Selected System Explorations
 
-**[featureflag-api](./featureflag-api)**  
+### 1/ [featureflag-api](./featureflag-api) 
 Go · GraphQL · PostgreSQL *(completed)*
   
-**personal website**  
+### 2/ personal website
 TypeScript · Astro · Playwright *(ongoing)*
 
-**chain-to-cloud-ingestion**  
+### 3/ chain-to-cloud-ingestion
 AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana *(planned)*
 
-#### Status Legend
+### Status Legend
 
 *(planned)* — design stage<br>*(in progress)* — active development<br>*(ongoing)* — iterative development<br>*(completed)* — finished and not actively maintained
 
