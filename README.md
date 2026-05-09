@@ -19,14 +19,20 @@ I also use these projects to refine my AI-assisted development workflow (**Curso
 
 # Selected System Explorations
 
-### 1/ [featureflag-api](./featureflag-api) 
-Go · GraphQL · PostgreSQL *(completed)*
-  
+### 1/ [featureflag-api](./featureflag-api)
+
+Go · GraphQL · PostgreSQL  
+*(completed)*
+
 ### 2/ [personal website](./havlinj.github.io)
-TypeScript · Astro · Playwright *(ongoing)*
+
+TypeScript · Astro · Playwright  
+*(ongoing)*
 
 ### 3/ chain-to-cloud-ingestion
-AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana *(planned)*
+
+AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana  
+*(planned)*
 
 ### Status Legend
 
