@@ -22,7 +22,7 @@ I also use these projects to refine my AI-assisted development workflow (**Curso
 ### 1/ [featureflag-api](./featureflag-api) 
 Go · GraphQL · PostgreSQL *(completed)*
   
-### 2/ personal website
+### 2/ [personal website](./havlinj.github.io)
 TypeScript · Astro · Playwright *(ongoing)*
 
 ### 3/ chain-to-cloud-ingestion
