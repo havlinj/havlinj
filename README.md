@@ -19,20 +19,12 @@ I also use these projects to refine my AI-assisted development workflow (**Curso
 
 # Selected System Explorations
 
-<div>
-  <span aria-hidden="true" style="display:inline-block;width:17px;height:11px;line-height:11px;color:#4A90FC;font-size:10px;vertical-align:text-bottom;">■</span><strong><a href="./featureflag-api">featureflag-api</a></strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go · GraphQL · PostgreSQL <em>(completed)</em>
-</div>
-<br>
-<div>
-  <span aria-hidden="true" style="display:inline-block;width:17px;height:11px;line-height:11px;color:#4A90FC;font-size:10px;vertical-align:text-bottom;">■</span><strong>personal website</strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TypeScript · Astro · Playwright <em>(ongoing)</em>
-</div>
-<br>
-<div>
-  <span aria-hidden="true" style="display:inline-block;width:17px;height:11px;line-height:11px;color:#4A90FC;font-size:10px;vertical-align:text-bottom;">■</span><strong>chain-to-cloud-ingestion</strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana <em>(planned)</em>
-</div>
+- **[featureflag-api](./featureflag-api)**  
+  Go · GraphQL · PostgreSQL *(completed)*
+- **personal website**  
+  TypeScript · Astro · Playwright *(ongoing)*
+- **chain-to-cloud-ingestion**  
+  AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana *(planned)*
 
 ### Status Legend
 
