@@ -20,17 +20,17 @@ I also use these projects to refine my AI-assisted development workflow (**Curso
 # Selected System Explorations
 
 <div>
-  <img src="assets/arrow.png" width="16" alt=""><strong><a href="./featureflag-api">featureflag-api</a></strong><br>
+  <img src="assets/arrow.png" width="16" height="11" alt=""><strong><a href="./featureflag-api">featureflag-api</a></strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;Go · GraphQL · PostgreSQL <em>(completed)</em>
 </div>
 <br>
 <div>
-  <img src="assets/arrow.png" width="16" alt=""><strong>personal website</strong><br>
+  <img src="assets/arrow.png" width="16" height="11" alt=""><strong>personal website</strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;TypeScript · Astro · Playwright <em>(ongoing)</em>
 </div>
 <br>
 <div>
-  <img src="assets/arrow.png" width="16" alt=""><strong>chain-to-cloud-ingestion</strong><br>
+  <img src="assets/arrow.png" width="16" height="11" alt=""><strong>chain-to-cloud-ingestion</strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana <em>(planned)</em>
 </div>
 
