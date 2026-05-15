@@ -32,11 +32,14 @@ TypeScript · Astro · Playwright
 ### [Chain-to-cloud ingestion](https://github.com/havlinj/chain-to-cloud-ingestion)
 
 AWS + GCP (Terraform) · Microservices (Go, gRPC) · Solana program · Kafka · Grafana  
-*(planned)*
+*(in progress)*
 
 ### Status Legend
 
-*(planned)* — design stage<br>*(in progress)* — active development<br>*(ongoing)* — iterative development<br>*(completed)* — finished and not actively maintained
+*(planned)* — design stage  
+*(in progress)* — active development  
+*(ongoing)* — iterative development  
+*(completed)* — finished and not actively maintained
 
 # Looking Ahead
 
