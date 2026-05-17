@@ -20,18 +20,15 @@ I also use these projects to refine my AI-assisted development workflow (**Curso
 # Selected System Explorations
 
 ### [Feature-flag GraphQL API](https://github.com/havlinj/featureflag-api)
-
 Go · GraphQL · PostgreSQL  
 *(completed)*
 
 ### [Personal website](https://github.com/havlinj/havlinj.github.io)
-
 TypeScript · Astro · Playwright  
 *(ongoing)*
 
-### [Blockchain/cross-cloud event-driven governance platform with observability and UI](https://github.com/havlinj/chain-to-cloud-ingestion)
-
-Solana (Anchor, commit–reveal, Merkle allowlist) · AWS: SNS/SQS, Lambda (TS), Go, DynamoDB · GCP: Pub/Sub, Go, BigQuery · gRPC · LiveView · Terraform · Kafka · Grafana  
+### [Blockchain governance platform (cross-cloud, event-driven)](https://github.com/havlinj/chain-to-cloud-ingestion)
+Solana (Anchor, commit–reveal, Merkle allowlist) · AWS: SNS/SQS, Lambda (TS), Go, DynamoDB · GCP: Pub/Sub, Go, BigQuery · gRPC · UI: LiveView · Terraform · Kafka · Grafana  
 *(in progress)*
 
 ### Status Legend
