@@ -31,7 +31,7 @@ TypeScript · Astro · Playwright
 
 ### [Blockchain/cross-cloud event-driven governance platform with observability and UI](https://github.com/havlinj/chain-to-cloud-ingestion)
 
-Solana (Anchor, commit–reveal, Merkle allowlist) · AWS: SNS/SQS, Lambda (TS), Go, DynamoDB · GCP: Pub/Sub, Go, BigQuery · gRPC · LiveView · Terraform · Kafka · Grafana
+Solana (Anchor, commit–reveal, Merkle allowlist) · AWS: SNS/SQS, Lambda (TS), Go, DynamoDB · GCP: Pub/Sub, Go, BigQuery · gRPC · LiveView · Terraform · Kafka · Grafana  
 *(in progress)*
 
 ### Status Legend
