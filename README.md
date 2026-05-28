@@ -11,6 +11,8 @@ This is not my first GitHub account.
 
 For several professional years I worked under a separate GitHub account focused on **Rust** systems developed within a single organization. That work is not directly linked from this profile, but selected examples can be shared upon request.
 
+Although I am no longer formally employed there, I still occasionally contribute on a voluntary basis, both because of friendships within the team and because I value the project's vision.
+
 This account contains work I can share publicly outside proprietary systems.
 
 Repositories here typically represent independent system designs created to explore technologies in depth. They are not tutorial-style examples — the goal is to evaluate technologies in realistic architectural contexts.
