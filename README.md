@@ -1,45 +1,35 @@
-# Welcome to My GitHub
+# System Explorations
 
-Here I share architectural explorations, system prototypes, and technical experiments.
+Distributed systems · Software architecture
 
-For a broader look at how I think about systems and engineering, and the ideas behind it,
-visit my website.
+Software rarely exists in isolation.
 
-# About This GitHub Account
+The projects here explore technologies in the context of larger systems, where integration, boundaries, reliability, and operational concerns become part of the engineering challenge.
 
-This is not my first GitHub account.
+Modern software is built from many moving parts. These explorations are a way to better understand how those parts interact and how architectural decisions shape the resulting system.
 
-For several professional years I worked under a separate GitHub account focused on **Rust** systems developed within a single organization. That work is not directly linked from this profile, but selected examples can be shared upon request.
+## Selected Projects
 
-Although I am no longer formally employed there, I still occasionally contribute on a voluntary basis, both because of friendships within the team and because I value the project's vision.
+### [Blockchain Governance Platform](https://github.com/havlinj/chain-to-cloud-ingestion)
 
-This account contains work I can share publicly outside proprietary systems.
+Ongoing exploration of a distributed system integrating on-chain governance workflows with cloud-native event processing, messaging, and analytics across AWS and GCP.
 
-Repositories here typically represent independent system designs created to explore technologies in depth. They are not tutorial-style examples — the goal is to evaluate technologies in realistic architectural contexts.
+*Solana (Anchor, Rust, commit–reveal, Merkle allowlist)
+AWS (SNS/SQS, Lambda, DynamoDB) · GCP (Pub/Sub, BigQuery)
+Go · gRPC · Terraform · Kafka · Grafana · LiveView*
 
-I also use these projects to refine my AI-assisted development workflow (**Cursor**).
+### [Feature Flag API](https://github.com/havlinj/featureflag-api)
 
-# Selected System Explorations
+Feature flag management service focused on API design, persistence, and operational simplicity.
 
-### [Feature-flag GraphQL API](https://github.com/havlinj/featureflag-api)
-Go · GraphQL · PostgreSQL  
-*(completed)*
+*Go · GraphQL · PostgreSQL*
 
-### [Personal website](https://github.com/havlinj/havlinj.github.io)
-TypeScript · Astro · Playwright  
-*(ongoing)*
+### [Personal Website](https://github.com/havlinj/havlinj.github.io)
 
-### [Blockchain governance platform (cross-cloud, event-driven)](https://github.com/havlinj/chain-to-cloud-ingestion)
-Solana (Anchor, commit–reveal, Merkle allowlist) · AWS: SNS/SQS, Lambda (TS), Go, DynamoDB · GCP: Pub/Sub, Go, BigQuery · gRPC · UI: LiveView · Terraform · Kafka · Grafana  
-*(in progress)*
+Ongoing development of a personal website and writing platform.
 
-### Status Legend
+*TypeScript · Astro · Playwright*
 
-*(planned)* — design stage  
-*(in progress)* — active development  
-*(ongoing)* — iterative development  
-*(completed)* — finished and not actively maintained
+## Rust
 
-# Looking Ahead
-
-I tend to have more ideas than time, so explorations emerge gradually. A private commercial project is also planned, potentially involving deeper work with Elixir.
+Public repositories on this profile do not reflect several years of professional Rust development. Selected examples of professional work are available upon request.
