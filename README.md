@@ -1,12 +1,8 @@
 # System Explorations
 
-Distributed systems · Software architecture
+These projects explore technologies in the context of distributed systems and software architecture rather than as standalone examples.
 
-Software rarely exists in isolation.
-
-The projects here explore technologies in the context of larger systems, where integration, boundaries, reliability, and operational concerns become part of the engineering challenge.
-
-Modern software is built from many moving parts. These explorations are a way to better understand how those parts interact and how architectural decisions shape the resulting system.
+The emphasis is on integration, boundaries, reliability, testing, and operational concerns.
 
 ## Selected Projects
 
