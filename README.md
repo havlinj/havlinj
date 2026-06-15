@@ -1,6 +1,6 @@
 # System Explorations
 
-These projects explore technologies in the context of distributed systems and software architecture rather than as standalone examples.
+Here you'll find my side projects. They explore technologies through the lens of distributed systems and software architecture rather than in isolation.
 
 The emphasis is on integration, boundaries, reliability, testing, and operational concerns.
 
