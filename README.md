@@ -26,6 +26,6 @@ Ongoing development of a personal website and writing platform.
 
 *TypeScript · Astro · Playwright*
 
-## Rust
+### Not finding enough Rust?
 
 Public repositories on this profile do not reflect several years of professional Rust development. Selected examples of professional work are available upon request.
