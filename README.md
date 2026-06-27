@@ -1,8 +1,8 @@
-# System Explorations
+# Software Explorations
 
-Here you'll find my side projects. They explore technologies through the lens of distributed systems and software architecture rather than in isolation.
+Here you'll find my side projects. 
 
-The emphasis is on integration, boundaries, reliability, testing, and operational concerns.
+Rather than exploring technologies in isolation, they use them as building blocks for distributed systems and software architecture, with an emphasis on integration, boundaries, reliability, testing, and operational concerns.
 
 ## Selected Projects
 
@@ -26,6 +26,14 @@ Ongoing development of a personal website and writing platform.
 
 *TypeScript · Astro · Playwright*
 
+## Notes
+
+### Human
+
+I enjoy building software, thinking in systems, and connecting technology, products, and people.
+
+Projects show what I build. My website shows more of who I am.
+
 ### Where's all the Rust?
 
-Public repositories on this profile do not reflect several years of professional Rust development. Selected examples of professional work are available upon request.
+This profile doesn't fully reflect several years of professional Rust development. Selected examples of that work are available upon request.
