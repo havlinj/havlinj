@@ -2,40 +2,6 @@ Much of the work here was planned from the outset to be public and inspectable�
 
 Testing isn't an afterthought. Years of practicing TDD taught me why a solid test suite belongs at the core of serious software development.
 
-## Experience
-
-| Professional software experience | Hands-on engineering |
-| :---: | :---: |
-| 7+ years | 5+ years |
-
-## Engineering areas
-
-### Practical experience
-
-| Area | Professional | Independent / OSS |
-| --- | :---: | :---: |
-| **Systems & architecture** | | |
-| Distributed systems | ●●● | ●● |
-| Event-driven architecture | | ●●● |
-| Messaging / message passing | ●● | |
-| Cloud-native | | ●● |
-| Blockchain systems | ●● | ●● |
-| **Platform & delivery** | | |
-| Software delivery | ●● | ●●● |
-| Infrastructure | ●● | ●●● |
-| **System qualities** | | |
-| Resilience | ●● | |
-
-| ● | ●● | ●●● | ●●●● | ●●●●● |
-| :---: | :---: | :---: | :---: | :---: |
-| limited | some experience | substantial experience | extensive experience | deep experience |
-
-*Markers reflect the depth and extent of practical experience in each context. Blank cells mean no practical experience is claimed in that context.*
-
-### Areas I want to deepen
-
-Platform engineering, throughput, latency, and data at scale.
-
 ## Independent Work
 
 **[Blockchain Governance Platform](https://github.com/havlinj/chain-to-cloud-ingestion)** — Ongoing exploration of a distributed system integrating on-chain governance workflows with cloud-native event processing, messaging, and analytics across AWS and GCP.  

@@ -1,3 +1,4 @@
 Software engineer. Still learning. As expected.
 
-[Engineering background & practice →](./ENGINEERING.md)
+[Engineering practice & work →](./ENGINEERING.md)  
+[Areas of experience & interest →](./AREAS.md)
