@@ -28,9 +28,7 @@ A schematic overview of where I’ve built hands-on experience and where I’d l
 | :---: | :---: | :---: | :---: | :---: |
 | limited | some experience | substantial experience | extensive experience | deep experience |
 
-*Markers reflect the depth and extent of practical experience in each context.*
-
-*Blank cells mean no practical experience is claimed in that context.*
+*Scale reflects the depth and extent of practical experience; blank cells indicate none in that context.*
 
 ### Further exploration
 
