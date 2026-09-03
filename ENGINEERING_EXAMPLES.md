@@ -1,4 +1,4 @@
-## Independent Work
+# Independent Work
 
 - [**Blockchain Governance Platform**](https://github.com/havlinj/chain-to-cloud-ingestion) — Ongoing exploration of a distributed system integrating on-chain governance workflows with cloud-native event processing, messaging, and analytics across AWS and GCP.
   - **Implemented:** Solana (Anchor, Rust, commit-reveal, Merkle allowlist); AWS operational pipeline (TypeScript ingestion, Go aggregator, SNS/SQS, Lambda, DynamoDB, Terraform)
