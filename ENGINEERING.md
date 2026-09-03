@@ -2,8 +2,6 @@
 
 *Written 2026-09-03.*
 
-I had a strong mentor—the one who got me serious about the craft of software. He once told me not to worry about skipping formal education. If he'd had the choice, he'd have gone straight into practice too. He believed I'd learn faster that way, and learn things no school could quite teach me. I've been trying to make his “wild theory” work ever since. Or perhaps just make him proud, if he could see where it led.
-
 Much of the work here was planned from the outset to be public and inspectable. Most of it will probably never be useful to anyone as a product, and that's fine. Its purpose is different: to leave a concrete record of how seriously I take engineering and what it might be like to have me on a team.
 
 It also gives me something professional work rarely does—a place to explore technologies without product pressure, organizational constraints, or somebody else's roadmap. That freedom does not mean I treat these projects as toys. Quite the opposite. I tend to make them more demanding than they strictly need to be, giving myself room to learn and grow under realistic conditions while still holding the implementation to the standards I would expect from production software.
