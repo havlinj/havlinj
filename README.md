@@ -5,7 +5,6 @@ Software engineer.
 <br>
 <br>
 <br>
-<p align="right">
-  <sub>profile pic: <a href="https://unsplash.com">@loganvoss</a> / unsplash</sub>
-</p>
+<br>
+<sub>profile pic: [@loganvoss](https://unsplash.com) / unsplash</sub>
 
